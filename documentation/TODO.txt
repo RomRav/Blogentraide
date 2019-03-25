@@ -1,0 +1,21 @@
+Jour 1 : INTRO
+PHP : kes ke cè ?
+Formulaire : récupération des saisies
+Inclusion
+Boucle FOR
+
+
+Jour 2
+Contrôles des récupérations
+IF - empty()
+FILE ?
+
+
+Jour 3 : FILE
+TP : File ? ou Préparation à PDO (révision SQL, création compte AlwaysData, ...)
+
+
+Jour 4
+Corrigé TP
+MySQL
+PDO

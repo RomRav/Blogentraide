@@ -1,0 +1,91 @@
+/* 
+    Created on : 11 déc. 2018, 11:54:36
+    Author     : pascal
+*/
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+#header{
+    background-color: black;
+    color: white;
+    padding: 2%;
+}
+
+#nav{
+    background-color: dimgray;
+    color: white;
+    padding: 1%;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    padding: 2%;
+}
+
+#centre{
+    padding: 1%;
+}
+
+#nav ul#menu_principal li{
+    display: inline-block;
+}
+
+#nav ul#menu_principal li a{
+    color: white;
+}
+
+
+#centre ul#menu_accueil li{
+    text-decoration: none;
+    list-style: none;
+}
+
+#centre ul#menu_accueil li a{
+    color: black;
+    /*    text-decoration: none;*/
+}
+
+
+ul#sous_menu li{
+    display: inline-block;
+}
+
+ul#sous_menu li a{
+    color: red;
+}
+
+
+p,label,bouton{
+    margin: 0.5%;
+}
+
+input[type="submit"]{
+    padding: 0.5%;
+}
+
+.rouge{color: red;}
+.orange{color: orange;}
+.vert{color: greenyellow;}
+
+.fondRouge{background-color: red;}
+.fondOrange{background-color: orange;}
+.fondVert{background-color: greenyellow;}
+
+table{
+    border-collapse: collapse;
+    margin: 1em;
+}
+caption, th, td{
+    border: 1px solid black;
+}
+td, th{
+    padding: 5px;
+}
+
+form{
+    margin: 1em;
+}
